@@ -14,7 +14,7 @@ In this project, I focus on the following tasks.
 # DEMO
 
 ## This is a demo for MarkovTextGeneratorLoL.
-<img src="demo_MarkovGeneratingText.png" width="150" height="200"/><br>
+<img src="demo_MarkovGeneratingText.png" width="450" height="300"/><br>
 
 ## This is a demo for autoComplete.
-<img src="demo_autoComplete.png" width="150" height="200"/><br>
+<img src="demo_autoComplete.png" width="450" height="300"/><br>
