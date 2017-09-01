@@ -11,3 +11,9 @@ In this project, I focus on the following tasks.
 5. Implement SpellingSuggest by implementing distanceOne(substitution, deletions, insertions) given a word.
 6. Implement MarkovTextGeneratorLoL by implementing getRandomNextWord and train and retrain.
 
+# DEMO
+
+## This is a demo for MarkovTextGeneratorLoL.
+<img src="demo_MarkovGeneratingText.png" alt="Drawing" style="width: 200px;"/>
+## This is a demo for autoComplete.
+<img src="demo_autoComplete.png" alt="Drawing" style="width: 200px;"/>
